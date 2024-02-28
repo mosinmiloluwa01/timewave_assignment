@@ -13,7 +13,6 @@ This project aims to build a UI component that displays the 7-day price chart of
 3. **Static Web Page**: The solution will be delivered as a static web page, which can be easily hosted and accessed via a web browser.
 
 ### Instructions for Running the Project:
-1. Download zip folder to your local machine.
-2. Unzip in your desired location
+1. Clone repository to your local machine.
 2. Open the project directory in your code editor.
-4. Open the `index.html` file in your web browser to view the price chart component.
+3. Open the `index.html` file in your web browser to view the price chart component.
